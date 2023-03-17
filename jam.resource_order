@@ -17,7 +17,13 @@
     {"name":"Tile sets","order":2,"path":"folders/Tile sets.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"Sprite5","order":4,"path":"sprites/Sprite5/Sprite5.yy",},
+    {"name":"Poker21","order":3,"path":"objects/Poker21/Poker21.yy",},
+    {"name":"Sprite4","order":3,"path":"sprites/Sprite4/Sprite4.yy",},
     {"name":"Sprite2","order":1,"path":"sprites/Sprite2/Sprite2.yy",},
     {"name":"Room12","order":1,"path":"rooms/Room12/Room12.yy",},
+    {"name":"black","order":1,"path":"objects/black/black.yy",},
+    {"name":"Sprite3","order":2,"path":"sprites/Sprite3/Sprite3.yy",},
+    {"name":"roue","order":2,"path":"objects/roue/roue.yy",},
   ],
 }
