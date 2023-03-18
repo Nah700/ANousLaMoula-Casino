@@ -31,7 +31,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.2.1.75",
+    "IDEVersion": "2023.2.0.71",
   },
   "resources": [
     {"id":{"name":"background_room_type","path":"sprites/background_room_type/background_room_type.yy",},},
@@ -72,8 +72,6 @@
     {"id":{"name":"MenuButtonQuit","path":"objects/MenuButtonQuit/MenuButtonQuit.yy",},},
     {"id":{"name":"backroom_access_sprite","path":"sprites/backroom_access_sprite/backroom_access_sprite.yy",},},
     {"id":{"name":"backroom_door","path":"objects/backroom_door/backroom_door.yy",},},
-    {"id":{"name":"MenuButtonOption","path":"objects/MenuButtonOption/MenuButtonOption.yy",},},
-    {"id":{"name":"MenuPlayButton","path":"objects/MenuPlayButton/MenuPlayButton.yy",},},
     {"id":{"name":"Exit","path":"sprites/Exit/Exit.yy",},},
     {"id":{"name":"HomeButton","path":"objects/HomeButton/HomeButton.yy",},},
     {"id":{"name":"MenuButtonPlay","path":"objects/MenuButtonPlay/MenuButtonPlay.yy",},},
