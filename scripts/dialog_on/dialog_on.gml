@@ -26,6 +26,7 @@ function dialog_on(){
 		i = 4;
 	}
 	if (i == 4) {
+		room_goto_next();
 		i = 0;
 		is_talking = 0;
 	};
