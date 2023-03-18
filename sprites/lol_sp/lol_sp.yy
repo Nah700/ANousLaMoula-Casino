@@ -1,10 +1,10 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "Sprite5",
-  "bbox_bottom": 182,
+  "name": "lol_sp",
+  "bbox_bottom": 167,
   "bbox_left": 0,
-  "bbox_right": 274,
+  "bbox_right": 299,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"5e31a212-e13d-4024-bade-bc0263154b76",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"2ded6178-45c8-4b58-bf71-d1722f1620c6",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 183,
+  "height": 168,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"86f161fb-7b27-4415-9c0e-6b044234fbad","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"a22b2867-29c3-43b3-b927-7e7b8979ee61","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -32,7 +32,7 @@
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "Sprite5",
+    "name": "lol_sp",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"5e31a212-e13d-4024-bade-bc0263154b76","path":"sprites/Sprite5/Sprite5.yy",},},},"Disabled":false,"id":"cb0ac74e-75ad-4bee-a49a-5135b8ade182","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"2ded6178-45c8-4b58-bf71-d1722f1620c6","path":"sprites/lol_sp/lol_sp.yy",},},},"Disabled":false,"id":"50e2db3b-e2c3-450a-a4e1-79da52f52af3","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 275,
+  "width": 300,
 }
