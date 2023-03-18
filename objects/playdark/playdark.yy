@@ -1,10 +1,9 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "playgold",
+  "name": "playdark",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":13,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":32,"eventType":9,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":10,"eventType":6,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":11,"eventType":6,"isDnD":false,},
   ],
@@ -31,8 +30,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Sp_play_menu",
-    "path": "sprites/Sp_play_menu/Sp_play_menu.yy",
+    "name": "charlie_sp",
+    "path": "sprites/charlie_sp/charlie_sp.yy",
   },
   "spriteMaskId": null,
   "visible": true,
