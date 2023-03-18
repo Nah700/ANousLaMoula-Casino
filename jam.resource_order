@@ -1,4 +1,10 @@
 {
   "FolderOrderSettings": [],
-  "ResourceOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"tony","order":2,"path":"sprites/tony/tony.yy",},
+    {"name":"Saul","order":1,"path":"sprites/Saul/Saul.yy",},
+    {"name":"Gameover","order":1,"path":"rooms/Gameover/Gameover.yy",},
+    {"name":"AccueilP","order":1,"path":"fonts/AccueilP/AccueilP.yy",},
+    {"name":"gmbg","order":3,"path":"sprites/gmbg/gmbg.yy",},
+  ],
 }
