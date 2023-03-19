@@ -11,6 +11,7 @@
     {"name":"RoomCrocoDoc","order":5,"path":"rooms/RoomCrocoDoc/RoomCrocoDoc.yy",},
     {"name":"barrel","order":21,"path":"sprites/barrel/barrel.yy",},
     {"name":"CreditNames","order":14,"path":"objects/CreditNames/CreditNames.yy",},
+    {"name":"Sprite32","order":9,"path":"sprites/Sprite32/Sprite32.yy",},
     {"name":"RussianRoulette","order":11,"path":"objects/RussianRoulette/RussianRoulette.yy",},
     {"name":"DarkZone","order":4,"path":"rooms/DarkZone/DarkZone.yy",},
     {"name":"Capture","order":16,"path":"sprites/Capture/Capture.yy",},
@@ -39,5 +40,6 @@
     {"name":"Gameover","order":9,"path":"rooms/Gameover/Gameover.yy",},
     {"name":"AccueilP","order":1,"path":"fonts/AccueilP/AccueilP.yy",},
     {"name":"gmbg","order":3,"path":"sprites/gmbg/gmbg.yy",},
+    {"name":"gameoverB","order":15,"path":"objects/gameoverB/gameoverB.yy",},
   ],
 }

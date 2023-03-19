@@ -31,7 +31,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.2.0.71",
+    "IDEVersion": "2023.2.1.75",
   },
   "resources": [
     {"id":{"name":"hello","path":"sounds/hello/hello.yy",},},
@@ -59,6 +59,7 @@
     {"id":{"name":"RoomCrocoDoc","path":"rooms/RoomCrocoDoc/RoomCrocoDoc.yy",},},
     {"id":{"name":"barrel","path":"sprites/barrel/barrel.yy",},},
     {"id":{"name":"CreditNames","path":"objects/CreditNames/CreditNames.yy",},},
+    {"id":{"name":"Sprite32","path":"sprites/Sprite32/Sprite32.yy",},},
     {"id":{"name":"RussianRoulette","path":"objects/RussianRoulette/RussianRoulette.yy",},},
     {"id":{"name":"DarkZone","path":"rooms/DarkZone/DarkZone.yy",},},
     {"id":{"name":"Capture","path":"sprites/Capture/Capture.yy",},},
@@ -107,6 +108,7 @@
     {"id":{"name":"AccueilP","path":"fonts/AccueilP/AccueilP.yy",},},
     {"id":{"name":"gmbg","path":"sprites/gmbg/gmbg.yy",},},
     {"id":{"name":"mille","path":"objects/mille/mille.yy",},},
+    {"id":{"name":"gameoverB","path":"objects/gameoverB/gameoverB.yy",},},
     {"id":{"name":"dialog_on","path":"scripts/dialog_on/dialog_on.yy",},},
   ],
   "RoomOrderNodes": [
