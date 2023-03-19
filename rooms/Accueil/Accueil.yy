@@ -10,8 +10,6 @@
     {"name":"inst_7BDA9733","path":"rooms/Accueil/Accueil.yy",},
     {"name":"inst_1BB43AAE","path":"rooms/Accueil/Accueil.yy",},
     {"name":"inst_14D10C7A","path":"rooms/Accueil/Accueil.yy",},
-    {"name":"inst_7D3C0460","path":"rooms/Accueil/Accueil.yy",},
-    {"name":"inst_7F00B4FA","path":"rooms/Accueil/Accueil.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -19,8 +17,6 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_7BDA9733","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"cent","path":"objects/cent/cent.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":2048.0,"y":896.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_1BB43AAE","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"mille","path":"objects/mille/mille.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":2048.0,"y":928.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_14D10C7A","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Dialog_box","path":"objects/Dialog_box/Dialog_box.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":2048.0,"y":864.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_7D3C0460","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"HomeButton","path":"objects/HomeButton/HomeButton.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1536.0,"y":0.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_7F00B4FA","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"ExitButton","path":"objects/ExitButton/ExitButton.yy",},"properties":[],"rotation":0.0,"scaleX":0.46666667,"scaleY":0.46666667,"x":1731.0,"y":10.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRBackgroundLayer","resourceVersion":"1.0","name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"spriteId":{"name":"LobbyBackground","path":"sprites/LobbyBackground/LobbyBackground.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
