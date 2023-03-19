@@ -1,6 +1,7 @@
 {
   "FolderOrderSettings": [],
   "ResourceOrderSettings": [
+    {"name":"Sprite29","order":5,"path":"sprites/Sprite29/Sprite29.yy",},
     {"name":"roulette_game","order":2,"path":"rooms/roulette_game/roulette_game.yy",},
     {"name":"background_game","order":4,"path":"sprites/background_game/background_game.yy",},
     {"name":"hud_font","order":2,"path":"fonts/hud_font/hud_font.yy",},

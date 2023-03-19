@@ -49,6 +49,7 @@
     {"id":{"name":"machine_sprite_menu","path":"sprites/machine_sprite_menu/machine_sprite_menu.yy",},},
     {"id":{"name":"lol2","path":"sounds/lol2/lol2.yy",},},
     {"id":{"name":"lol1","path":"sounds/lol1/lol1.yy",},},
+    {"id":{"name":"Sprite29","path":"sprites/Sprite29/Sprite29.yy",},},
     {"id":{"name":"machine_menu_object","path":"objects/machine_menu_object/machine_menu_object.yy",},},
     {"id":{"name":"roulette_menu_sprite","path":"sprites/roulette_menu_sprite/roulette_menu_sprite.yy",},},
     {"id":{"name":"Sp_play_menu","path":"sprites/Sp_play_menu/Sp_play_menu.yy",},},
