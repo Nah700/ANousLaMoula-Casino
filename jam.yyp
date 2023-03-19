@@ -31,34 +31,62 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.2.0.71",
+    "IDEVersion": "2023.2.1.75",
   },
   "resources": [
+<<<<<<< Updated upstream
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
+=======
+    {"id":{"name":"input_box","path":"objects/input_box/input_box.yy",},},
+    {"id":{"name":"Casino_Jackpot___Sound_Effect_1","path":"sounds/Casino_Jackpot___Sound_Effect_1/Casino_Jackpot___Sound_Effect_1.yy",},},
+    {"id":{"name":"background_room_type","path":"sprites/background_room_type/background_room_type.yy",},},
+>>>>>>> Stashed changes
     {"id":{"name":"_343689","path":"sprites/_343689/_343689.yy",},},
     {"id":{"name":"_3436898","path":"sprites/_3436898/_3436898.yy",},},
+    {"id":{"name":"Mario_lose_sound_effect_HD","path":"sounds/Mario_lose_sound_effect_HD/Mario_lose_sound_effect_HD.yy",},},
     {"id":{"name":"LobbyBackground","path":"sprites/LobbyBackground/LobbyBackground.yy",},},
+    {"id":{"name":"affichage_slot1","path":"scripts/affichage_slot1/affichage_slot1.yy",},},
+    {"id":{"name":"retry","path":"objects/retry/retry.yy",},},
     {"id":{"name":"MenuButtonSprite","path":"sprites/MenuButtonSprite/MenuButtonSprite.yy",},},
     {"id":{"name":"playgold","path":"objects/playgold/playgold.yy",},},
+    {"id":{"name":"dialogue_box","path":"sprites/dialogue_box/dialogue_box.yy",},},
+    {"id":{"name":"machine_a_sous","path":"rooms/machine_a_sous/machine_a_sous.yy",},},
     {"id":{"name":"button_parent","path":"objects/button_parent/button_parent.yy",},},
     {"id":{"name":"Sprite5","path":"sprites/Sprite5/Sprite5.yy",},},
+    {"id":{"name":"machine_buton","path":"objects/machine_buton/machine_buton.yy",},},
     {"id":{"name":"Poker21","path":"objects/Poker21/Poker21.yy",},},
+    {"id":{"name":"try_again_buton","path":"sprites/try_again_buton/try_again_buton.yy",},},
+    {"id":{"name":"machine_a_sous_bg","path":"sprites/machine_a_sous_bg/machine_a_sous_bg.yy",},},
     {"id":{"name":"Sprite4","path":"sprites/Sprite4/Sprite4.yy",},},
     {"id":{"name":"Sp_play_gold","path":"sprites/Sp_play_gold/Sp_play_gold.yy",},},
+    {"id":{"name":"Sprite19","path":"sprites/Sprite19/Sprite19.yy",},},
     {"id":{"name":"reputation_sp","path":"sprites/reputation_sp/reputation_sp.yy",},},
     {"id":{"name":"jetons_hud","path":"objects/jetons_hud/jetons_hud.yy",},},
+    {"id":{"name":"machine_r","path":"objects/machine_r/machine_r.yy",},},
     {"id":{"name":"Font1","path":"fonts/Font1/Font1.yy",},},
     {"id":{"name":"MenuFont","path":"fonts/MenuFont/MenuFont.yy",},},
     {"id":{"name":"Accueil","path":"rooms/Accueil/Accueil.yy",},},
+    {"id":{"name":"leave_ma","path":"objects/leave_ma/leave_ma.yy",},},
     {"id":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
     {"id":{"name":"create_global_var","path":"objects/create_global_var/create_global_var.yy",},},
+    {"id":{"name":"dialogue_machine_2","path":"objects/dialogue_machine_2/dialogue_machine_2.yy",},},
     {"id":{"name":"normal_games_menu","path":"rooms/normal_games_menu/normal_games_menu.yy",},},
     {"id":{"name":"black","path":"objects/black/black.yy",},},
     {"id":{"name":"sp_jeton_hud","path":"sprites/sp_jeton_hud/sp_jeton_hud.yy",},},
+<<<<<<< Updated upstream
+=======
+    {"id":{"name":"machine_script","path":"scripts/machine_script/machine_script.yy",},},
+    {"id":{"name":"backroom_access_sprite_invi","path":"sprites/backroom_access_sprite_invi/backroom_access_sprite_invi.yy",},},
+    {"id":{"name":"backroom_music","path":"sounds/backroom_music/backroom_music.yy",},},
+    {"id":{"name":"istockphoto_1226107947_612x612","path":"sprites/istockphoto_1226107947_612x612/istockphoto_1226107947_612x612.yy",},},
+    {"id":{"name":"dialogue_machine_1","path":"objects/dialogue_machine_1/dialogue_machine_1.yy",},},
+>>>>>>> Stashed changes
     {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},},
     {"id":{"name":"reputation_hud","path":"objects/reputation_hud/reputation_hud.yy",},},
     {"id":{"name":"roue","path":"objects/roue/roue.yy",},},
     {"id":{"name":"type_of_game_menu","path":"rooms/type_of_game_menu/type_of_game_menu.yy",},},
+    {"id":{"name":"jackpot_buton","path":"sprites/jackpot_buton/jackpot_buton.yy",},},
+    {"id":{"name":"dialogue_machine_3","path":"objects/dialogue_machine_3/dialogue_machine_3.yy",},},
     {"id":{"name":"MenuButtonQuit","path":"objects/MenuButtonQuit/MenuButtonQuit.yy",},},
     {"id":{"name":"MenuButtonOption","path":"objects/MenuButtonOption/MenuButtonOption.yy",},},
     {"id":{"name":"MenuPlayButton","path":"objects/MenuPlayButton/MenuPlayButton.yy",},},
@@ -66,8 +94,12 @@
   "RoomOrderNodes": [
     {"roomId":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
     {"roomId":{"name":"Accueil","path":"rooms/Accueil/Accueil.yy",},},
+<<<<<<< Updated upstream
     {"roomId":{"name":"type_of_game_menu","path":"rooms/type_of_game_menu/type_of_game_menu.yy",},},
     {"roomId":{"name":"normal_games_menu","path":"rooms/normal_games_menu/normal_games_menu.yy",},},
+=======
+    {"roomId":{"name":"machine_a_sous","path":"rooms/machine_a_sous/machine_a_sous.yy",},},
+>>>>>>> Stashed changes
   ],
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
