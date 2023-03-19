@@ -4,8 +4,12 @@
     {"name":"tire","order":1,"path":"sounds/tire/tire.yy",},
     {"name":"rr_leave","order":1,"path":"objects/rr_leave/rr_leave.yy",},
     {"name":"vide","order":2,"path":"sounds/vide/vide.yy",},
+    {"name":"porteoffice","order":3,"path":"objects/porteoffice/porteoffice.yy",},
     {"name":"crane","order":2,"path":"sprites/crane/crane.yy",},
+    {"name":"tooffice","order":1,"path":"scripts/tooffice/tooffice.yy",},
+    {"name":"bguard","order":3,"path":"sprites/bguard/bguard.yy",},
     {"name":"reputation_sp46","order":1,"path":"sprites/reputation_sp46/reputation_sp46.yy",},
+    {"name":"darkdialog","order":4,"path":"objects/darkdialog/darkdialog.yy",},
     {"name":"thecrane","order":2,"path":"objects/thecrane/thecrane.yy",},
   ],
 }

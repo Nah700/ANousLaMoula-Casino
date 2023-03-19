@@ -1,0 +1,1 @@
+global.speek = 1;

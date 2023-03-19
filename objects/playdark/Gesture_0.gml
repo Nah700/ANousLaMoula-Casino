@@ -1,6 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-global.jetons = 100;
-global.reputation = 50;
+global.reputation = 49;
 room_goto(DarkZone);
