@@ -3,4 +3,4 @@
 
 global.jetons = 100;
 global.reputation = 50;
-room_goto(DarkZone);
+room_goto(normal_games_menu);
