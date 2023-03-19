@@ -1,6 +1,7 @@
 {
   "FolderOrderSettings": [],
   "ResourceOrderSettings": [
+    {"name":"hud_font","order":2,"path":"fonts/hud_font/hud_font.yy",},
     {"name":"tony","order":2,"path":"sprites/tony/tony.yy",},
     {"name":"Saul","order":1,"path":"sprites/Saul/Saul.yy",},
     {"name":"Gameover","order":1,"path":"rooms/Gameover/Gameover.yy",},

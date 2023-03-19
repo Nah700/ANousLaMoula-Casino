@@ -31,7 +31,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.2.1.75",
+    "IDEVersion": "2023.2.0.71",
   },
   "resources": [
     {"id":{"name":"hello","path":"sounds/hello/hello.yy",},},
@@ -68,6 +68,7 @@
     {"id":{"name":"normal_games_menu","path":"rooms/normal_games_menu/normal_games_menu.yy",},},
     {"id":{"name":"black","path":"objects/black/black.yy",},},
     {"id":{"name":"sp_jeton_hud","path":"sprites/sp_jeton_hud/sp_jeton_hud.yy",},},
+    {"id":{"name":"hud_font","path":"fonts/hud_font/hud_font.yy",},},
     {"id":{"name":"backroom_access_sprite_invi","path":"sprites/backroom_access_sprite_invi/backroom_access_sprite_invi.yy",},},
     {"id":{"name":"backroom_music","path":"sounds/backroom_music/backroom_music.yy",},},
     {"id":{"name":"table_menu_1","path":"sprites/table_menu_1/table_menu_1.yy",},},
