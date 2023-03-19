@@ -36,7 +36,7 @@
     {"name":"Exit","order":7,"path":"sprites/Exit/Exit.yy",},
     {"name":"HomeButton","order":10,"path":"objects/HomeButton/HomeButton.yy",},
     {"name":"Saul","order":1,"path":"sprites/Saul/Saul.yy",},
-    {"name":"Gameover","order":1,"path":"rooms/Gameover/Gameover.yy",},
+    {"name":"Gameover","order":9,"path":"rooms/Gameover/Gameover.yy",},
     {"name":"AccueilP","order":1,"path":"fonts/AccueilP/AccueilP.yy",},
     {"name":"gmbg","order":3,"path":"sprites/gmbg/gmbg.yy",},
   ],
