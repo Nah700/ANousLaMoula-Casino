@@ -1,0 +1,1 @@
+global.ii = 0;
