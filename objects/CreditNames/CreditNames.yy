@@ -1,15 +1,16 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "HomeButton",
+  "name": "CreditNames",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":11,"eventType":6,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":10,"eventType":6,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":11,"eventType":6,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [
-    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"button_parent","path":"objects/button_parent/button_parent.yy",},"propertyId":{"name":"button_text","path":"objects/button_parent/button_parent.yy",},"value":"",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"button_parent","path":"objects/button_parent/button_parent.yy",},"propertyId":{"name":"button_text","path":"objects/button_parent/button_parent.yy",},"value":"Kevin Zilliox\\nLouis Ritzenthaler\\nNahim Kandari\\nOlaf Breitenbuchr\\nPierre-Louis Schorsch",},
   ],
   "parent": {
     "name": "Objets",
@@ -35,8 +36,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "home_silhouette_button_free_vector",
-    "path": "sprites/home_silhouette_button_free_vector/home_silhouette_button_free_vector.yy",
+    "name": "MenuButtonSprite",
+    "path": "sprites/MenuButtonSprite/MenuButtonSprite.yy",
   },
   "spriteMaskId": null,
   "visible": true,

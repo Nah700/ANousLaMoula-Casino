@@ -1,11 +1,11 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "home_silhouette_button_free_vector",
-  "bbox_bottom": 199,
-  "bbox_left": 18,
-  "bbox_right": 199,
-  "bbox_top": 18,
+  "name": "hasbro_croc_doc_1_pc_6621_en",
+  "bbox_bottom": 973,
+  "bbox_left": 1,
+  "bbox_right": 1263,
+  "bbox_top": 4,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"f16c21fd-ff99-49f8-bc4d-53a871d817b1",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"f5e450d6-b6c6-4b4e-8ffd-fe94a383059e",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 200,
+  "height": 976,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"838e2604-c6bd-4570-a2be-aebdaade30cb","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"b92e1f26-e3f1-486e-aa4f-45cb7d943c1e","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -32,7 +32,7 @@
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "home_silhouette_button_free_vector",
+    "name": "hasbro_croc_doc_1_pc_6621_en",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"f16c21fd-ff99-49f8-bc4d-53a871d817b1","path":"sprites/home_silhouette_button_free_vector/home_silhouette_button_free_vector.yy",},},},"Disabled":false,"id":"1ea13f73-b1a7-4abc-b403-c339ff04a5da","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"f5e450d6-b6c6-4b4e-8ffd-fe94a383059e","path":"sprites/hasbro_croc_doc_1_pc_6621_en/hasbro_croc_doc_1_pc_6621_en.yy",},},},"Disabled":false,"id":"577c76b3-869f-4e35-98d2-6d1907fdef61","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 200,
+  "width": 1265,
 }
