@@ -1,11 +1,11 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "home_silhouette_button_free_vector",
-  "bbox_bottom": 199,
-  "bbox_left": 18,
-  "bbox_right": 199,
-  "bbox_top": 18,
+  "name": "_360_F_502107061_JKj0HIYeI2Ag3xNjKCbE2KobpfIURlcX",
+  "bbox_bottom": 359,
+  "bbox_left": 0,
+  "bbox_right": 539,
+  "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"f16c21fd-ff99-49f8-bc4d-53a871d817b1",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"a57dad63-9679-42c0-af7f-2e82254c37ae",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 200,
+  "height": 360,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"838e2604-c6bd-4570-a2be-aebdaade30cb","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"84a93468-7252-43d5-b76e-417a1ac5007f","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -32,7 +32,7 @@
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "home_silhouette_button_free_vector",
+    "name": "_360_F_502107061_JKj0HIYeI2Ag3xNjKCbE2KobpfIURlcX",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"f16c21fd-ff99-49f8-bc4d-53a871d817b1","path":"sprites/home_silhouette_button_free_vector/home_silhouette_button_free_vector.yy",},},},"Disabled":false,"id":"1ea13f73-b1a7-4abc-b403-c339ff04a5da","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"a57dad63-9679-42c0-af7f-2e82254c37ae","path":"sprites/_360_F_502107061_JKj0HIYeI2Ag3xNjKCbE2KobpfIURlcX/_360_F_502107061_JKj0HIYeI2Ag3xNjKCbE2KobpfIURlcX.yy",},},},"Disabled":false,"id":"36a48ac7-f8a7-4302-8c30-ac5179cfd231","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 200,
+  "width": 540,
 }

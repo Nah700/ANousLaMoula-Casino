@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "HomeButton",
+  "name": "CrocoDoc",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":11,"eventType":6,"isDnD":false,},
@@ -35,8 +35,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "home_silhouette_button_free_vector",
-    "path": "sprites/home_silhouette_button_free_vector/home_silhouette_button_free_vector.yy",
+    "name": "hasbro_croc_doc_1_pc_6621_en",
+    "path": "sprites/hasbro_croc_doc_1_pc_6621_en/hasbro_croc_doc_1_pc_6621_en.yy",
   },
   "spriteMaskId": null,
   "visible": true,
