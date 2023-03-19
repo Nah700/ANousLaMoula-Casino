@@ -1,4 +1,6 @@
 {
   "FolderOrderSettings": [],
-  "ResourceOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"reputation_sp46","order":1,"path":"sprites/reputation_sp46/reputation_sp46.yy",},
+  ],
 }

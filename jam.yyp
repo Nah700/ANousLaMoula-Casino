@@ -32,7 +32,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.2.0.71",
+    "IDEVersion": "2023.2.1.75",
   },
   "resources": [
     {"id":{"name":"parier1000","path":"objects/parier1000/parier1000.yy",},},
@@ -100,7 +100,6 @@
     {"id":{"name":"on20","path":"objects/on20/on20.yy",},},
     {"id":{"name":"on21","path":"objects/on21/on21.yy",},},
     {"id":{"name":"retour","path":"sprites/retour/retour.yy",},},
-    {"id":{"name":"reputation_sp","path":"sprites/reputation_sp/reputation_sp.yy",},},
     {"id":{"name":"d_m_3","path":"objects/d_m_3/d_m_3.yy",},},
     {"id":{"name":"ExitButton","path":"objects/ExitButton/ExitButton.yy",},},
     {"id":{"name":"parier10","path":"objects/parier10/parier10.yy",},},
@@ -125,6 +124,7 @@
     {"id":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
     {"id":{"name":"business_end_45_acp_260nw_2153325","path":"sprites/business_end_45_acp_260nw_2153325/business_end_45_acp_260nw_2153325.yy",},},
     {"id":{"name":"create_global_var","path":"objects/create_global_var/create_global_var.yy",},},
+    {"id":{"name":"reputation_sp46","path":"sprites/reputation_sp46/reputation_sp46.yy",},},
     {"id":{"name":"MusicObj","path":"objects/MusicObj/MusicObj.yy",},},
     {"id":{"name":"d_m_2","path":"objects/d_m_2/d_m_2.yy",},},
     {"id":{"name":"RussianRouletteRoom","path":"rooms/RussianRouletteRoom/RussianRouletteRoom.yy",},},
