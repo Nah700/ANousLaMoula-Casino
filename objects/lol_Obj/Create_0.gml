@@ -4,4 +4,4 @@
 audio_pause_all();
 visible = false;
 audio_play_sound(lol1,10, false);
-alarm[0] = 230
+alarm[0] = 300

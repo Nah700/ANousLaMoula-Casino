@@ -14,6 +14,8 @@
     {"name":"inst_2B03CE14","path":"rooms/normal_games_menu/normal_games_menu.yy",},
     {"name":"inst_32DE22B4","path":"rooms/normal_games_menu/normal_games_menu.yy",},
     {"name":"inst_112A6A92","path":"rooms/normal_games_menu/normal_games_menu.yy",},
+    {"name":"inst_42777EF0","path":"rooms/normal_games_menu/normal_games_menu.yy",},
+    {"name":"inst_2544485C","path":"rooms/normal_games_menu/normal_games_menu.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -25,6 +27,8 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_2B03CE14","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"playdark","path":"objects/playdark/playdark.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1271.0,"y":620.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_32DE22B4","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"reputation_hud","path":"objects/reputation_hud/reputation_hud.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":32.0,"y":96.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_112A6A92","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"jetons_hud","path":"objects/jetons_hud/jetons_hud.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":32.0,"y":32.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_42777EF0","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"HomeButton","path":"objects/HomeButton/HomeButton.yy",},"properties":[],"rotation":0.0,"scaleX":0.52,"scaleY":0.52,"x":1152.0,"y":0.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_2544485C","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"ExitButton","path":"objects/ExitButton/ExitButton.yy",},"properties":[],"rotation":0.0,"scaleX":0.2888889,"scaleY":0.2888889,"x":1257.0,"y":0.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRBackgroundLayer","resourceVersion":"1.0","name":"Backgrounds_1","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"spriteId":{"name":"background_room_type","path":"sprites/background_room_type/background_room_type.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
