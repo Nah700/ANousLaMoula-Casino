@@ -19,6 +19,7 @@
     {"name":"Sprite50","order":1,"path":"sprites/Sprite50/Sprite50.yy",},
     {"name":"b_bg","order":4,"path":"sprites/b_bg/b_bg.yy",},
     {"name":"Win","order":2,"path":"rooms/Win/Win.yy",},
+    {"name":"moulastonksv2","order":3,"path":"sounds/moulastonksv2/moulastonksv2.yy",},
     {"name":"thecrane","order":2,"path":"objects/thecrane/thecrane.yy",},
     {"name":"Bureau","order":1,"path":"rooms/Bureau/Bureau.yy",},
     {"name":"accepter","order":8,"path":"objects/accepter/accepter.yy",},
