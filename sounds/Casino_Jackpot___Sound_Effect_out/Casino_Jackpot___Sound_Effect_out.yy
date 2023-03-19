@@ -1,7 +1,7 @@
 {
   "resourceType": "GMSound",
   "resourceVersion": "1.0",
-  "name": "Music",
+  "name": "Casino_Jackpot___Sound_Effect_out",
   "audioGroupId": {
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
@@ -10,14 +10,14 @@
   "bitRate": 128,
   "compression": 0,
   "conversionMode": 0,
-  "duration": 140.72162,
+  "duration": 5.0,
   "parent": {
     "name": "Sons",
     "path": "folders/Sons.yy",
   },
   "preload": false,
   "sampleRate": 44100,
-  "soundFile": "Music.wav",
+  "soundFile": "Casino_Jackpot___Sound_Effect_out.wav",
   "type": 0,
-  "volume": 0.2,
+  "volume": 0.7,
 }
