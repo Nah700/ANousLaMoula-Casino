@@ -54,6 +54,7 @@
     {"id":{"name":"Sp_play_menu","path":"sprites/Sp_play_menu/Sp_play_menu.yy",},},
     {"id":{"name":"Capture","path":"sprites/Capture/Capture.yy",},},
     {"id":{"name":"reputation_sp","path":"sprites/reputation_sp/reputation_sp.yy",},},
+    {"id":{"name":"roulette_game","path":"rooms/roulette_game/roulette_game.yy",},},
     {"id":{"name":"ExitButton","path":"objects/ExitButton/ExitButton.yy",},},
     {"id":{"name":"playdark","path":"objects/playdark/playdark.yy",},},
     {"id":{"name":"jetons_hud","path":"objects/jetons_hud/jetons_hud.yy",},},
@@ -67,6 +68,7 @@
     {"id":{"name":"MusicObj","path":"objects/MusicObj/MusicObj.yy",},},
     {"id":{"name":"normal_games_menu","path":"rooms/normal_games_menu/normal_games_menu.yy",},},
     {"id":{"name":"black","path":"objects/black/black.yy",},},
+    {"id":{"name":"background_game","path":"sprites/background_game/background_game.yy",},},
     {"id":{"name":"sp_jeton_hud","path":"sprites/sp_jeton_hud/sp_jeton_hud.yy",},},
     {"id":{"name":"hud_font","path":"fonts/hud_font/hud_font.yy",},},
     {"id":{"name":"backroom_access_sprite_invi","path":"sprites/backroom_access_sprite_invi/backroom_access_sprite_invi.yy",},},
@@ -104,6 +106,7 @@
     {"roomId":{"name":"normal_games_menu","path":"rooms/normal_games_menu/normal_games_menu.yy",},},
     {"roomId":{"name":"lol","path":"rooms/lol/lol.yy",},},
     {"roomId":{"name":"Gameover","path":"rooms/Gameover/Gameover.yy",},},
+    {"roomId":{"name":"roulette_game","path":"rooms/roulette_game/roulette_game.yy",},},
   ],
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
