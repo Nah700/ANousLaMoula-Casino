@@ -40,7 +40,6 @@
     {"id":{"name":"machine_r","path":"objects/machine_r/machine_r.yy",},},
     {"id":{"name":"background_room_type","path":"sprites/background_room_type/background_room_type.yy",},},
     {"id":{"name":"fin","path":"sprites/fin/fin.yy",},},
-    {"id":{"name":"CrocoDoc","path":"objects/CrocoDoc/CrocoDoc.yy",},},
     {"id":{"name":"CreditRoom","path":"rooms/CreditRoom/CreditRoom.yy",},},
     {"id":{"name":"d_m_1","path":"objects/d_m_1/d_m_1.yy",},},
     {"id":{"name":"Machine_Room","path":"rooms/Machine_Room/Machine_Room.yy",},},
