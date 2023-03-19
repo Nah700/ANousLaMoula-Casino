@@ -15,7 +15,7 @@ function tooffice(){
 		global.speek = 0;
 	} else if (keyboard_check_pressed(vk_enter) and i == 3) {
 		global.speek = 0;
-		room_goto(normal_games_menu);
+		room_goto(Bureau);
 	}
 	
 }

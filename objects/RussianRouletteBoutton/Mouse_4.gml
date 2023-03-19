@@ -1,3 +1,4 @@
+randomize();
 dice_roll = irandom(5);
 
 if (dice_roll == 1) {
