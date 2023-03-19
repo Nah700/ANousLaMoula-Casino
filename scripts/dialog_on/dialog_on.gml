@@ -1,5 +1,3 @@
-// Les actifs du script ont changé pour v2.3.0 Voir
-// https://help.yoyogames.com/hc/en-us/articles/360005277377 pour plus d’informations
 function dialog_on(){
 	draw_sprite(text_box, 0, window_get_width() / 3, window_get_height() / 2);
 	draw_set_halign(fa_center);

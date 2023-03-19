@@ -17,6 +17,7 @@
     {"name":"Tile sets","order":2,"path":"folders/Tile sets.yy",},
   ],
   "ResourceOrderSettings": [
+<<<<<<< Updated upstream
     {"name":"j100","order":5,"path":"sprites/j100/j100.yy",},
     {"name":"text_box","order":4,"path":"sprites/text_box/text_box.yy",},
     {"name":"cent","order":6,"path":"objects/cent/cent.yy",},
@@ -31,5 +32,15 @@
     {"name":"mille","order":7,"path":"objects/mille/mille.yy",},
     {"name":"Sprite3","order":1,"path":"sprites/Sprite3/Sprite3.yy",},
     {"name":"roue","order":2,"path":"objects/roue/roue.yy",},
+=======
+    {"name":"restartT","order":4,"path":"sprites/restartT/restartT.yy",},
+    {"name":"gameoverB","order":1,"path":"objects/gameoverB/gameoverB.yy",},
+    {"name":"hud_font","order":2,"path":"fonts/hud_font/hud_font.yy",},
+    {"name":"tony","order":2,"path":"sprites/tony/tony.yy",},
+    {"name":"Saul","order":1,"path":"sprites/Saul/Saul.yy",},
+    {"name":"Gameover","order":1,"path":"rooms/Gameover/Gameover.yy",},
+    {"name":"AccueilP","order":1,"path":"fonts/AccueilP/AccueilP.yy",},
+    {"name":"gmbg","order":3,"path":"sprites/gmbg/gmbg.yy",},
+>>>>>>> Stashed changes
   ],
 }
